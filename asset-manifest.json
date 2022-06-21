@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/rebuild_tourism/static/css/main.0c22af0e.css",
+    "main.js": "/rebuild_tourism/static/js/main.b2133d5b.js",
+    "static/js/787.b4cdd736.chunk.js": "/rebuild_tourism/static/js/787.b4cdd736.chunk.js",
+    "static/media/background.jpg": "/rebuild_tourism/static/media/background.0624948506f8cd74b86d.jpg",
+    "static/media/2.jpg": "/rebuild_tourism/static/media/2.5a2528df4f1220da0729.jpg",
+    "static/media/5.jpg": "/rebuild_tourism/static/media/5.7253b63b8da93edb7c76.jpg",
+    "static/media/11.jpg": "/rebuild_tourism/static/media/11.ccc646ccaccb1a336095.jpg",
+    "static/media/7.jpg": "/rebuild_tourism/static/media/7.fd07c006ca430dda12dc.jpg",
+    "static/media/8.jpg": "/rebuild_tourism/static/media/8.855e04b51a8dab5bb71d.jpg",
+    "static/media/cuisine2.png": "/rebuild_tourism/static/media/cuisine2.e6551aa011d7c0e25114.png",
+    "static/media/cuisine5.png": "/rebuild_tourism/static/media/cuisine5.38f9ae0fe6e5a2dce618.png",
+    "static/media/restaurant2.jpg": "/rebuild_tourism/static/media/restaurant2.5e4cf36d34c0165ffccd.jpg",
+    "static/media/10.jpg": "/rebuild_tourism/static/media/10.099d98bc57635fcb2126.jpg",
+    "static/media/restaurant3.jpg": "/rebuild_tourism/static/media/restaurant3.3086e6a44da8670c0a9c.jpg",
+    "static/media/restaurant4.jpg": "/rebuild_tourism/static/media/restaurant4.705c922d788a156d39e3.jpg",
+    "static/media/6.jpg": "/rebuild_tourism/static/media/6.cfb5ee3564ead6a080bf.jpg",
+    "static/media/9.jpg": "/rebuild_tourism/static/media/9.de52e536929978ec94c5.jpg",
+    "static/media/1.jpg": "/rebuild_tourism/static/media/1.09517564578dcbbcbf33.jpg",
+    "static/media/cuisine6.jpg": "/rebuild_tourism/static/media/cuisine6.25e76e95351d8896a993.jpg",
+    "static/media/3.jpg": "/rebuild_tourism/static/media/3.89504c04a9016dd7cdad.jpg",
+    "static/media/12.jpg": "/rebuild_tourism/static/media/12.67009d98b9163fe0a7d1.jpg",
+    "static/media/4.jpg": "/rebuild_tourism/static/media/4.cb7d4522c3efab9cf804.jpg",
+    "static/media/cuisine3.jpg": "/rebuild_tourism/static/media/cuisine3.c0c38fd6d1eed57f4c79.jpg",
+    "static/media/restaurant1.jpg": "/rebuild_tourism/static/media/restaurant1.d9c65a3a2710ae940940.jpg",
+    "static/media/cuisine4.jpg": "/rebuild_tourism/static/media/cuisine4.664d6ed0e44d8c172f2f.jpg",
+    "static/media/cuisine1.jpg": "/rebuild_tourism/static/media/cuisine1.5b3c5d01eaf0ad356fd3.jpg",
+    "index.html": "/rebuild_tourism/index.html",
+    "main.0c22af0e.css.map": "/rebuild_tourism/static/css/main.0c22af0e.css.map",
+    "main.b2133d5b.js.map": "/rebuild_tourism/static/js/main.b2133d5b.js.map",
+    "787.b4cdd736.chunk.js.map": "/rebuild_tourism/static/js/787.b4cdd736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c22af0e.css",
+    "static/js/main.b2133d5b.js"
+  ]
+}
